@@ -9,7 +9,7 @@
 <h3>👦About Me</h3>
 
 I am a 2<sup>nd</sup> year undergrad doing BTech in Computer Science. Being a self-taught **Full Stack Web Developer** from India, my passion for web development derives from my ability to create novel concepts and bring them to life through visually beautiful interfaces. My attention to detail extends to the whole user experience, system design, and flawless code quality.<br><br>Furthermore, I am a strong supporter of **open-source projects** and have gained valuable experience by actively participating in the open-source community and programs like SSOC, SWOC, PWOC, JWOC, WOB.<br><br>
-You can reach out to me for freelance or collaborative projects on my [Email](shivansh.arora973@gmail.com)
+You can reach out to me for freelance or collaborative projects on my [Email](mailto:shivansh.arora973@gmail.com)
 <br><br>
 
 
@@ -45,7 +45,7 @@ You can reach out to me for freelance or collaborative projects on my [Email](sh
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<br>
 <br>
 <br>
   <h3 align="left">🤝Connect with me:</h3>
