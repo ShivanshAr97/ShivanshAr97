@@ -8,7 +8,10 @@
 <!-- <p align = "left"> -->
 <h3>👦About Me</h3>
 
-I am a 2<sup>nd</sup> year undergrad doing BTech in Computer Science. Being a self-taught **Full Stack Web Developer** from India, my passion for web development derives from my ability to create novel concepts and bring them to life through visually beautiful interfaces. My attention to detail extends to the whole user experience, system design, and flawless code quality.<br><br>Furthermore, I am a strong supporter of **open-source projects** and have gained valuable experience by actively participating in the open-source community and programs like SSOC, SWOC, PWOC, JWOC, WOB.<br><br>
+I am a 3<sup>rd</sup> year undergrad doing BTech in Computer Science. Being a self-taught **Full Stack Web Developer** from India, skilled in building dynamic, responsive Full Stack web applications using cutting-edge frameworks like MERN stack and NextJS. my passion for web development derives from my ability to create novel concepts and bring them to life through visually beautiful interfaces. My attention to detail extends to the whole user experience, system design, and flawless code quality.<br><br>Furthermore, I am a strong supporter of **open-source projects** and have gained valuable experience by actively participating in the open-source community and programs like SSOC, wherein I stood 2<sup>nd</sup> runner-up, SWOC, PWOC, GSSOC, JWOC, WOB.<br><br>
+
+Experienced in developing intelligent systems, specializing in Computer Vision, Machine Learning, and Deep Learning. Proficient in creating and analyzing models to drive insights and automation. Exploring Large Language Models (LLM) and MLOps to enhance AI solutions and streamline deployment processes. Passionate about leveraging AI to solve complex problems.
+
 You can reach out to me for freelance or collaborative projects on my [Email](mailto:shivansh.arora973@gmail.com)
 <br><br>
 
@@ -28,7 +31,8 @@ You can reach out to me for freelance or collaborative projects on my [Email](ma
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -43,7 +47,16 @@ You can reach out to me for freelance or collaborative projects on my [Email](ma
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+                    
+<img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
+          
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+          
+
 
 <br>
 <br>
